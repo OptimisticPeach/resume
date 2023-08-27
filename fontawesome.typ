@@ -1,7 +1,7 @@
 #let fa(name) = {
   text(
     font: "Font Awesome 6 Free Solid",
-    size: 10pt,
+    size: 11.5pt,
     box[ #name ]
   )
 }
